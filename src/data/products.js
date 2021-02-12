@@ -2,7 +2,7 @@ export const products = [
     {
         'id':'1',
         'name':'Desayuno Dulce Amor',
-        'type': 'doble',
+        'customers': 'doble',
         'items': [
             'Muffin de chocolate rellenos con manjar',
             'Profisteroles',
@@ -27,7 +27,7 @@ export const products = [
     {
         'id':'2',
         'name':'Desayuno Dulce Amor Con Oso de Peluche',
-        'type': 'simple',
+        'customers': 'simple',
         'items': [
             'Muffin de chocolate rellenos con manjar',
             'Profisteroles',
@@ -52,7 +52,7 @@ export const products = [
     {
         'id':'3',
         'name':'Desayuno Dulce Amor Con Oso de Peluche',
-        'type': 'doble',
+        'customers': 'doble',
         'items': [
             'Muffin de chocolate rellenos con manjar',
             'Profisteroles',
@@ -76,7 +76,7 @@ export const products = [
     {
         'id':'4',
         'name':'Desayuno Enamorados Saludable',
-        'costumers': 'simple',
+        'customers': 'simple',
         'items': [
             'Manqueue de vainilla o chocolate',
             'Queque saludable',
@@ -100,7 +100,7 @@ export const products = [
     {
         'id':'5',
         'name':'San Valentín',
-        'costumers': 'simple',
+        'customers': 'simple',
         'items': [
             'Cupcake',
             'Brownie',
