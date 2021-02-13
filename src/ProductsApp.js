@@ -3,7 +3,7 @@ import { AppRouter } from './router/AppRouter'
 
 export const ProductsApp = () => {
     return (
-        <div>
+        <div className="container">
             <AppRouter />
         </div>
     )
